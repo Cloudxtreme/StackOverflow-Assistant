@@ -2,8 +2,7 @@
 
 <p> In this project, I have used various Natural Language Processing techniques to construct a dialogue chat bot, which: </p>
 <ul>
-
-    <li> answer programming-related questions (using StackOverflow dataset) </li>
+    <li> answer technical questions (used StackOverflow dataset) </li>
     <li> chit-chat and simulate dialogue on all non programming-related questions (used a pre-trained neural network engine available from ChatterBot)</li> 
 </ul>
 <p>
