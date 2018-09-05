@@ -1,9 +1,9 @@
 # StackOverflow-Assistant
 
-<p> In this project, I have used various Natural Language Processing techniques to construct a dialogue chat bot, which: </p>
+<p> In this project, various Natural Language Processing techniques are used to construct a dialogue chat bot, which: </p>
 <ul>
-    <li> answer technical questions (used StackOverflow dataset) </li>
-    <li> chit-chat and simulate dialogue on all non programming-related questions (used a pre-trained neural network engine available from ChatterBot)</li> 
+    <li> answers technical questions (used StackOverflow dataset) </li>
+    <li> chit-chats and simulates dialogue on all non programming-related questions (used a pre-trained neural network engine available from ChatterBot)</li> 
 </ul>
 <p>
 The bot responds to the question asked with the most relevant Stack-Overflow Link.</p>
